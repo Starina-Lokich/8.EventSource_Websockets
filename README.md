@@ -1,0 +1,2 @@
+[![Deploy to GitHub Pages](https://github.com/Starina-Lokich/8.EventSource_Websockets/workflows/deploy.yml/badge.svg)](https://github.com/Starina-Lokich/8.EventSource_Websockets/workflows/deploy.yml)
+[Посмотреть демо на GitHub Pages](https://Starina-Lokich.github.io/8.EventSource_Websockets/)
